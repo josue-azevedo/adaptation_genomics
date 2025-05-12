@@ -32,16 +32,15 @@ Models landscape connectivity and projects species distributions to simulate evo
 
 ---
 
-## 🔧 Dependencies
+## 🔧 Dependencies (minimal)
 
-- **R** ≥ 4.0  
+- **R** ≥ 3.0  
 - CRAN & Bioconductor packages (non-exhaustive):  
   - `vegan` (RDA)  
-  - `lfmm` (GEA)  
-  - `adegenet` / `vcfR` (genotype handling)  
+  - `lfmm` `LEA` (GEA)  
   - `raster`, `sp`, `sf` (spatial data)  
-  - `sdm` / `maxnet` (SDMs)  
-  - `gdistance` (connectivity/diffusion)  
+  - `sdm`  (SDMs)  
+
 
 ---
 
