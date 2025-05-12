@@ -1,6 +1,6 @@
 # Genome assembly (RAD-Seq), GEA Analyses & Evolutionary Rescue
 
-This repo contains the core R and shell scripts used in:
+This repo contains the core R scripts used in:
 
 > **Azevedo J. A. R. et al.**  
 > *Deforestation limits evolutionary rescue under climate change in Amazonian lizards.*
@@ -56,5 +56,5 @@ If you need a more generalized workflow or stripped-down scripts for your own da
 All code in this repository is released under a **CC0 Public Domain Waiver**.  
 Feel free to reuse, adapt, and cite as:
 
-> Azevedo J. A. R. et al. (2025) Deforestation limits evolutionary rescue under climate change in Amazonian lizards. *Manuscript in review.*
+> Azevedo J. A. R. et al. (2024) Deforestation limits evolutionary rescue under climate change in Amazonian lizards. 
 
